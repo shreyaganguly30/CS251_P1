@@ -1,2 +1,2 @@
 # CS251_P1
-Ciphers
+Data Structures: Project 1 - Ciphers
